@@ -10,7 +10,7 @@
 
 [Дискретная математика, пилот](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rMXoc2WiIevr2gEbHVWarG)
 
-[Математический анализ, пилот] (https://www.youtube.com/playlist?list=PLEwK9wdS5g0rIxyD885a4wsn0bVTg--7A)
+[Математический анализ, пилот](https://www.youtube.com/playlist?list=PLEwK9wdS5g0rIxyD885a4wsn0bVTg--7A)
 
 [ОиМП, пилот + основа](https://www.youtube.com/playlist?list=PLEwK9wdS5g0oHT_ygQwRLamRBivSVkykk)
 
