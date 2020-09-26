@@ -22,24 +22,23 @@
 
 ### Некоторые полезные материалы:
 
-Конспекты лекций по ОиМП 2016 года: https://github.com/alzobnin/hse-cs-prog
+[Репозиторий](https://github.com/alzobnin/hse-cs-prog)
+ с конспектами лекций по ОиМП 2016 года
+[Домашки](https://yadi.sk/d/9PDKsZC6Ofr5jg?w=1) по линалу
+[Научная библиотека](https://yadi.sk/d/ZjDyMPujR8ZFmQ?w=1) (яндекс.диск)
 
-Домашки по линалу: https://yadi.sk/d/9PDKsZC6Ofr5jg?w=1
+### Задачники и учебники по линалу (всё на я.диске):
 
-Научная библиотека: https://yadi.sk/d/ZjDyMPujR8ZFmQ?w=1
+[Винберг - Курс Алгебры](https://yadi.sk/i/APym0k2u75XI3Q)
 
-### Задачники и учебники по линалу:
+[Кострикин - Введение в алгебру часть II Линейная алгебра](https://yadi.sk/d/2EqSAJJR3N9h7H)
 
-Винберг - Курс Алгебры. https://yadi.sk/i/APym0k2u75XI3Q
+[Кострикин Манин - Линейная алгебра](https://yadi.sk/d/ci_na-mz3N9h7Q)
 
-Кострикин - Введение в алгебру часть II Линейная алгебра https://yadi.sk/d/2EqSAJJR3N9h7H
+[Sheldon Axler - Linear Algebra Done Right](https://yadi.sk/i/B5RXsXrI3TTFoU)
 
-Кострикин Манин - Линейная алгебра https://yadi.sk/d/ci_na-mz3N9h7Q
+[Кострикин - Сборник задач по линейной алгебре](https://yadi.sk/i/ayIeELGipfO4_Q)
 
-Sheldon Axler - Linear Algebra Done Right https://yadi.sk/i/B5RXsXrI3TTFoU
+[Ким Крицков - Алгебра и Аналитическая геометрия](https://yadi.sk/d/pSAhP1233Ty6Ce)
 
-Кострикин - Сборник задач по линейной алгебре https://yadi.sk/i/ayIeELGipfO4_Q
-
-Ким Крицков - Алгебра и Аналитическая геометрия https://yadi.sk/d/pSAhP1233Ty6Ce
-
-Проскуряков - Сборник задач по линейной алгебре https://yadi.sk/d/fmNdMboVAAYueA
+[Проскуряков - Сборник задач по линейной алгебре](https://yadi.sk/d/fmNdMboVAAYueA)
